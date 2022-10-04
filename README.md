@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitish Solanki
-- 👀 I’m interested in IOS development.
-- 🌱 I am currently learning UIKit to build IOS apps.
+- 👀 I’m interested in Machine Learning.
+- 🌱 I am currently learning Python in depth.
 - 💞️ I’m looking to collaborate on any project that I could be of help in.
 - 📫 You can reach me at nitishsolanki888@gmail.com
 
