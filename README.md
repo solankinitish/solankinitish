@@ -1,8 +1,6 @@
 Hi 👋
 📕Learning different aspects of Artificial Intelligence.
-
 🧐Currently understanding fundamentals of Deep Learning, Keras, Tensorflow, Pandas.
-
 😀Interested in Open Source
 
  📫 Reach me at nitishsolanki888@gmail.com
