@@ -1,4 +1,4 @@
-Hi 👋
+Hi 👋, I am Nitish Solanki. Welcome to my page. <br>
 📕Learning different aspects of Artificial Intelligence.
 
 📁Built projects using skills of Data Manipulation, Data Analysis, ML, Visualisation like Sentiment Analysis, <br>
