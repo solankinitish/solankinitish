@@ -1,6 +1,6 @@
 # Hi, I'm Nitish Solanki 👋
 
-Self-directed developer based in Delhi, building toward a **remote GenAI engineering internship**.
+Self-directed developer based in Delhi, building toward a **remote GenAI engineering internship** (target: July 2026).
 
 I build LLM systems from first principles — no tutorials, no copy-paste. Every component understood before it's written.
 
@@ -36,7 +36,9 @@ Language          → Python 3.11
 **Remote GenAI / LLM Engineering Internship — July 2026**
 
 📧 nitishsolanki888@gmail.com
-🐦 [@nitishsolanki_](https://twitter.com/nitishsolanki_)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nitishsolanki_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-solanki-645845200)
 
 <!---
 solankinitish/solankinitish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
