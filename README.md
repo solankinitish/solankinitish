@@ -1,6 +1,6 @@
 # Hi, I'm Nitish Solanki 👋
 
-Self-directed developer based in Delhi, building toward a **remote GenAI engineering internship** (target: July 2026).
+Self-directed developer based in Delhi, building toward a **remote GenAI engineering internship**.
 
 I build LLM systems from first principles — no tutorials, no copy-paste. Every component understood before it's written.
 
@@ -33,7 +33,7 @@ Language          → Python 3.11
 
 ## Looking For
 
-**Remote GenAI / LLM Engineering Internship — July 2026**
+**Remote GenAI / LLM Engineering Internship**
 
 📧 nitishsolanki888@gmail.com
 
