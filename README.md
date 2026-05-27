@@ -3,7 +3,6 @@
 Self-directed developer based in Delhi, building toward a **remote GenAI engineering internship**.
 
 I build LLM systems from first principles — no tutorials, no copy-paste. Every component understood before it's written.
-Maths and Classical ML fundamentals frame my heuristic lens in this big-models world.
 
 ---
 
@@ -28,14 +27,14 @@ Language          → Python 3.11
 
 - Building production-style GenAI systems — RAG pipelines, stateful memory, ML-grounded LLM coaching
 - Studying LLM internals, RAG evaluation, and prompt engineering
-- Understanding retrieval evaluation, LLM systems, and scalable AI orchestration
+- Trying to use Mathematical and Classical ML based heuristic lens in this big-models world
 
 ---
 
 ## Looking For
 
 **Seeking Applied AI / LLM Systems Engineering Internships
-focused on retrieval, orchestration, and AI infrastructure.**
+focused on retrieval, orchestration, and AI infrastructure**
 
 📧 nitishsolanki888@gmail.com
 
