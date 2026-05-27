@@ -25,7 +25,7 @@ Language          → Python 3.11
 
 ## Currently
 
-- Building production-style GenAI systems — RAG pipelines, stateful memory, ML-grounded LLM coaching
+- Building production-style GenAI systems — RAG pipelines, stateful memory, ML-grounded LLM orchestration
 - Studying LLM internals, RAG evaluation, and prompt engineering
 - Trying to use Mathematical and Classical ML based heuristic lens in this big-models world
 
