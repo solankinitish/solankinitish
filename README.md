@@ -39,7 +39,7 @@ focused on retrieval, orchestration, and AI infrastructure**
 📧 nitishsolanki888@gmail.com
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nitishsolanki_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-solanki-645845200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solankinitish)
 
 <!---
 solankinitish/solankinitish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
