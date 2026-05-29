@@ -9,16 +9,16 @@ I build LLM systems from first principles — no tutorials, no copy-paste. Every
 ## What I Work With
 
 ```
-LLM Engineering   → LangChain, Groq, Ollama, Mistral, Llama 3.1
-Vector DBs        → Pinecone, ChromaDB
-Embeddings        → SentenceTransformers
+LLM ENGINEERING   → LangChain, Groq, Ollama, Mistral, Llama 3.1
+VECTOR DBs        → Pinecone, ChromaDB
+EMBEDDINGS        → SentenceTransformers
 ML                → scikit-learn, scipy, HuggingFace Transformers, distilBERT
-Backend           → FastAPI, Uvicorn, Pydantic
-Frontend          → Streamlit
-DevOps            → Docker, Google Cloud Run, GCS
-Math              → Linear Algebra (MIT 18.06), Multivariable Calculus, Optimization
-Deep Learning     → Neural networks, backpropagation, CNNs, RNNs (Keras, TensorFlow)
-Language          → Python 3.11
+BACKEND           → FastAPI, Uvicorn, Pydantic
+FRONTEND          → Streamlit
+DEVOPS            → Docker, Google Cloud Run, GCS
+MATHS              → Linear Algebra (MIT 18.06), Multivariable Calculus, Optimization
+DEEP LEARNING     → Neural networks, backpropagation, CNNs, RNNs (Keras, TensorFlow)
+LANGUAGE          → Python 3.11
 ```
 
 ---
@@ -28,6 +28,8 @@ Language          → Python 3.11
 - Building production-style GenAI systems — RAG pipelines, stateful memory, ML-grounded LLM orchestration
 - Studying LLM internals, RAG evaluation, and prompt engineering
 - Trying to use Mathematical and Classical ML based heuristic lens in this big-models world
+
+👉 *Explore the implementations of these concepts in my pinned repositories below.*
 
 ---
 
