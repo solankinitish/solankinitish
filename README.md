@@ -16,7 +16,7 @@ ML                → scikit-learn, scipy, HuggingFace Transformers, distilBERT
 BACKEND           → FastAPI, Uvicorn, Pydantic
 FRONTEND          → Streamlit
 DEVOPS            → Docker, Google Cloud Run, GCS
-MATHS              → Linear Algebra (MIT 18.06), Multivariable Calculus, Optimization
+MATHS             → Linear Algebra (MIT 18.06), Multivariable Calculus, Optimization
 DEEP LEARNING     → Neural networks, Backpropagation, CNNs, RNNs (Keras, TensorFlow)
 LANGUAGE          → Python 3.11
 ```
